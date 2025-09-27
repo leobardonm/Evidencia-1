@@ -1,0 +1,16 @@
+=== PALÍNDROMOS MÁS LARGOS EN CADA GEN ===
+
+Gen M:
+  Longitud del palíndromo más largo: 11
+  Posición de inicio: 149
+  Secuencia: TTCTTTTTCTT
+
+Gen S:
+  Longitud del palíndromo más largo: 15
+  Posición de inicio: 886
+  Secuencia: GAATTTGTGTTTAAG
+
+Gen ORF1AB:
+  Longitud del palíndromo más largo: 20
+  Posición de inicio: 9853
+  Secuencia: CTCAATGACTTCAGTAACTC
